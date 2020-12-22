@@ -12,7 +12,7 @@ A study project at Practicum by Yandex with switching from table(grid) cards pre
 
 ## :link: Links to test
 
-https://dianadomino24.github.io/table-list-layout-robots
+https://dianadomino24.github.io/table-list-layout-robots/
 
 ## :rocket: Technologies
 
