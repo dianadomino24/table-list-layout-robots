@@ -16,7 +16,7 @@ https://dianadomino24.github.io/table-list-layout-robots/
 
 ## :rocket: Technologies
 
--   **JavaScript ES6** - Promises, setTimeOut.
+-   **JavaScript ES6** 
 
 -   semantic **HTML5**, styles - **CSS3** including Flexbox, Grid-layout.
 
